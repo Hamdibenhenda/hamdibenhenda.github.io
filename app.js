@@ -15,9 +15,10 @@
 window.ityped.init(document.querySelector('.ityped'), {
     strings: [
         'Développeur Frontend', 
+        'Développeur Angular',
         'Développeur Drupal', 
-        'Angular',
-        'Développeur/Integrateur CMS'
+        'Développeur / Integrateur CMS',
+        'Développeur BackEnd'
     ],
     loop: true
   })
