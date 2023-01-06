@@ -11,3 +11,13 @@
         document.body.classList.toggle("light-mode");
     })
 })();
+
+window.ityped.init(document.querySelector('.ityped'), {
+    strings: [
+        'Développeur Frontend', 
+        'Développeur Drupal', 
+        'Angular',
+        'Développeur/Integrateur CMS'
+    ],
+    loop: true
+  })
