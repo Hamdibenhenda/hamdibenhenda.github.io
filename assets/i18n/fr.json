@@ -2,9 +2,9 @@
     "btn-cv": "Télécharger mon CV",
     "about-title": "À propos de ",
     "me": "moi",
-    "about-p1" : "Avec 6 ans d'expérience dans le développement web dans différents domaines (bancaires, gestion, e-commerce), j'ai la qualification nécessaire pour développer vos projets.",
-    "about-p2" : "Spécialiste des technologies du web, je conçois et développe de A à Z des applications à l'aide de frameworks aussi  bien front que back, comme Symfony, Angular, Drupal, Prestashop. À cela s'ajoute mes compétences de DevOps permettant la mise en place d'une intégration automatique, qualitative et simplifiée.",
-    "about-p3" : " Durant mes nombreux projets, j'ai pu travailler en équipe en mettant en place des processus et des outils pour répondre aux mieux aux attentes et problématiques des clients. ",
+    "about-p1" : "Avec des années d'expérience approfondie dans le domaine du développement web, notamment dans des secteurs variés tels que la banque, la gestion et le commerce électronique, je possède les qualifications nécessaires pour concrétiser vos projets.",
+    "about-p2" : "En tant que spécialiste des technologies web, je suis capable de concevoir et de développer des applications de A à Z en utilisant des frameworks aussi bien du côté front-end que du côté back-end, tels que Symfony, Angular, Drupal et Prestashop. De plus, mes compétences en tant que DevOps me permettent de mettre en place une intégration automatique, de qualité et simplifiée.",
+    "about-p3" : "Au cours de mes multiples projets, j'ai collaboré efficacement en équipe en instaurant des processus et en utilisant des outils afin de répondre de manière optimale aux attentes et aux problématiques des clients.",
     "my" : "Mes",
     "references" :" Références",
     "works-description" : " Voici quelques références de mes travaux que j'ai effectués dans divers langages de programmation.",
@@ -30,12 +30,16 @@
     "develop-new-features" : "Développements de nouvelles fonctionnalités ",
     "mise-en-place-rgaa" : "Mise en place du RGAA pour SGP",
     "code-review" : "Revue de code",
-    "bug-fixes" : "Corrections d'anomalies",
+    "bug-fixes" : "Correction d'anomalies",
     "technical-documentation" : "Documentations techniques (Confluence)",
     "assistance-recette" : "Assistance à la recette applicative",
     "assistance-production" : "Assistance à la mise en production ",
     "environnement-technique" : "Environnement Technique",
     "present" : "Présent",
     "developpeur-fullstack" : "Développeur FullStack",
-    "developpeur-web-prestashop" : "Développeur web & Prestashop"
+    "developpeur-web-prestashop" : "Développeur web & Prestashop",
+    "now" : "Maintenant",
+    "projet" : "Projet",
+    "google-analytics" : "Mis en places des evenements GA4 & GA3"
+
 }

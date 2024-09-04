@@ -2,7 +2,7 @@
   "btn-cv": "Download my cv",
   "about-title": "About",
   "me": "me",
-  "about-p1": "With 6 years of experience in web development in different areas (banking, management, e-commerce), I have the necessary qualification to develop your projects.",
+  "about-p1": "With some years of experience in web development in different areas (banking, management, e-commerce), I have the necessary qualification to develop your projects.",
   "about-p2": "Specialist in web technologies, I design and develop from A to Z apps using frameworks too both front and back, like Symfony, Angular, Drupal, PrestaShop. Added to this is my DevOps skills allowing the implementation place of an automatic, qualitative and simplified integration.",
   "about-p3": "During my many projects, I was able to work as a team by setting up processes and tools to best meet the expectations and problems of customers.",
   "my": "my",
@@ -30,14 +30,17 @@
   "develop-new-features" : "Development of new features",
   "mise-en-place-rgaa" : "Implementation of the Accessibility for SGP",
   "code-review" : "Code review",
-  "bug-fixes" : "Bug Fixes",
+  "bug-fixes" : "Bugs Fixe",
   "technical-documentation" : "Technical documentation (Confluence)",
   "assistance-recette" : "Assistance à la recette applicative",
   "assistance-production" : "Assistance à la mise en production ",
   "environnement-technique" : "Technical environment",
   "present" : "Present",
   "developpeur-fullstack" : "FullStack Developer",
-  "developpeur-web-prestashop" : "Web & Prestashop Developer"
+  "developpeur-web-prestashop" : "Web & Prestashop Developer",
+  "now" : "Now",
+  "projet" : "Project",
+  "google-analytics" : "Set up GA4 & GA3 events"
 
 
 
